@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[695],{8341:function(s){s.exports=JSON.parse('[{"label":"docusaurus-v2","permalink":"/MixZou/mixzou.github.io/zh-Hans/blog/tags/docusaurus-v-2","count":1}]')}}]);
