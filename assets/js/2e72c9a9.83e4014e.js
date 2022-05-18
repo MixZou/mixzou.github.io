@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[920],{1903:function(u){u.exports=JSON.parse('{"label":"docusaurus-v2","permalink":"/MixZou/mixzou.github.io/blog/tags/docusaurus-v-2","allTagsPath":"/MixZou/mixzou.github.io/blog/tags","count":1}')}}]);
