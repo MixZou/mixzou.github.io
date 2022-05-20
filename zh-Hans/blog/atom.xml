@@ -19,7 +19,9 @@
             <name>MixZou</name>
             <uri>https://github.com/mixzou</uri>
         </author>
-        <category label="html js vue" term="html js vue"/>
+        <category label="html" term="html"/>
+        <category label="js" term="js"/>
+        <category label="vue" term="vue"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[How To Deploy Your Site]]></title>
