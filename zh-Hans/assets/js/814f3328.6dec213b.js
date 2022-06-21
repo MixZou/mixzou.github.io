@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Web\u5b66\u4e60\u7b14\u8bb0","permalink":"/zh-Hans/blog/note_of_web"},{"title":"How To Deploy Your Site","permalink":"/zh-Hans/blog/start your docusaurus-v2"}]}')}}]);

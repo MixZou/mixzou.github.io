@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[388],{3728:function(s){s.exports=JSON.parse('{"label":"Ruby","permalink":"/zh-Hans/blog/tags/ruby","allTagsPath":"/zh-Hans/blog/tags","count":1}')}}]);
